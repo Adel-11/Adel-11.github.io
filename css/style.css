@@ -1,0 +1,94 @@
+
+/* Propriétés communes à toutes les pages */
+body {
+	background-color: linen;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+	color: tomato;
+	text-align: center;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	color: 	sienna;
+
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+	color: dimgray;
+}
+
+button {
+	color: teal;
+}
+
+/* index */
+.titre2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.recette-container img {
+width: 500px;
+height: 500px;
+}
+
+
+
+/* Recette 1 */
+.ingredients {
+	font-family: 'Poppins', sans-serif;
+	color: dimgray;
+	font-size: 20px;
+}
+
+.ustensiles {
+	font-family: 'Poppins', sans-serif;
+	color: teal;
+	font-size: 20px;
+}
+
+.etapes {
+	font-family: 'Poppins', sans-serif;
+	color: dimgray;
+	font-size: 20px;
+}
+
+.imagerecette1 {
+display: block;
+width: 500px;
+height: 500px;
+margin: 0 auto;
+
+}
+
+/* Recette 1 */
+.ingredients {
+	font-family: 'Poppins', sans-serif;
+	color: dimgray;
+	font-size: 20px;
+}
+
+.ustensiles {
+	font-family: 'Poppins', sans-serif;
+	color: teal;
+	font-size: 20px;
+}
+
+.etapes {
+	font-family: 'Poppins', sans-serif;
+	color: dimgray;
+	font-size: 20px;
+}
+
+.imagerecette2 {
+display: block;
+width: 500px;
+height: 500px;
+margin: 0 auto;
+
+}
